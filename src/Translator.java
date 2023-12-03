@@ -12,13 +12,6 @@ public class Translator {
 
         for (int i = 1; i <= alphabetic.length; i++) {
             numericAlpha.put(numeric[i - 1],alphabetic[i - 1]);
-
-
         }
     }
-
-
-
-
-
 }
